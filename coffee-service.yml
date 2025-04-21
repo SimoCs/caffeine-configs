@@ -3,4 +3,4 @@ spring:
     name: coffee-service
 
 coffee:
-  recommendation: "Next time, try an Iced Americano!"
+  recommendation: "Next time, try an Iced Cappuccino!"
